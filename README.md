@@ -13,3 +13,7 @@ want to remove it
 ```bash
 make remove
 ```
+
+
+## License
+**xcodeTheme** is under MIT license. See the [LICENSE](LICENSE) file for more info.
