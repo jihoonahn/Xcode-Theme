@@ -1,6 +1,6 @@
 # Xcode-Theme
 
-<img width = 100% src = "https://user-images.githubusercontent.com/68891494/201013252-7b6dcf95-5fb7-4fa1-8845-f99313daa343.svg"></img>
+<img width = 100% src = "https://github.com/jihoonahn/Xcode-Theme/assets/68891494/f69cdab5-2559-490b-b178-a0baff8ac3e0"></img>
 
 ### Using
 want to apply it
