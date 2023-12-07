@@ -3,18 +3,22 @@
 # Jihoonahn Xcode Theme
 It's the Xcode Theme that I use in my blog.
 
-### Using
+## Installing using Swift Package Manager
 
-want to apply it
-```bash
-swift run install
+The easiest way to install this Xcode theme is to clone this repo and execute `swift run`:
+
+```
+$ git clone https://github.com/jihoonahn/XcodeTheme.git
+$ cd XcodeTheme
+$ swift run install
 ```
 
-want to remove it
-```bash
-swift run uninstall
-```
+## Uninstalling using Swift Package Manager
 
+```
+$ cd XcodeTheme
+$ swift run uninstall
+```
 
 ## License
 **xcodeTheme** is under MIT license. See the [LICENSE](LICENSE) file for more info.
