@@ -4,14 +4,15 @@
 It's the Xcode Theme that I use in my blog.
 
 ### Using
+
 want to apply it
 ```bash
-make setting
+swift run install
 ```
 
 want to remove it
 ```bash
-make remove
+swift run uninstall
 ```
 
 
