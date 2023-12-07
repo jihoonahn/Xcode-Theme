@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "plfile",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pelagornis/plfile.git",
+      "state" : {
+        "revision" : "5436397e86c4523d9303137efbc18e755be719f3",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}
