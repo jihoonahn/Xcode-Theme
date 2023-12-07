@@ -1,10 +1,9 @@
 import Foundation
-import Command
 import File
 
 print("⚜️ Installing Xcode theme...")
 
-let themeURL = URL(fileURLWithPath: #file.replacingOccurrences(of: "Sources/XcodeTheme/main.swift", with: "Jihoon.xccolortheme"))
+let themeURL = URL(fileURLWithPath: #file.replacingOccurrences(of: "Sources/Install/main.swift", with: "Jihoon.xccolortheme"))
 let themeData = try Data(contentsOf: themeURL)
 
 let xcodeFolder = try Folder(path: .home).subfolder(at: "Library/Developer/Xcode")
