@@ -8,7 +8,7 @@ It's the Xcode Theme that I use in my blog.
 The easiest way to install this Xcode theme is to clone this repo and execute `swift run`:
 
 ```
-$ git clone https://github.com/jihoonahn/XcodeTheme.git
+$ git clone https://github.com/jihoonme/XcodeTheme.git
 $ cd XcodeTheme
 $ swift run install
 ```
